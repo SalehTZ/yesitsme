@@ -16,11 +16,11 @@ colorama.init(autoreset=True)
 
 
 def banner():
-    print("                _ _   _                ")
-    print("  _  _ ___ ___ (_) |_( )___  _ __  ___ ")
-    print(" | || / -_|_-< | |  _|/(_-< | '  \/ -_)")
-    print("  \_, \___/__/ |_|\__| /__/ |_|_|_\___|")
-    print("  |__/                                 ")
+    print(r"                _ _   _                ")
+    print(r"  _  _ ___ ___ (_) |_( )___  _ __  ___ ")
+    print(r" | || / -_|_-< | |  _|/(_-< | '  \/ -_)")
+    print(r"  \_, \___/__/ |_|\__| /__/ |_|_|_\___|")
+    print(r"  |__/                                 ")
     print("\n\tTwitter: " + Fore.MAGENTA + "@blackeko5")
 
 
